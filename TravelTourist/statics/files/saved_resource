@@ -1,0 +1,87 @@
+    /* kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr */
+                    @font-face {
+            font-family: 'kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr';
+            font-style: normal;
+            font-weight: 200;
+            src: local('kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr'), url(https://qp83296.see5.ir/wp-content/uploads/2021/04/IRANSansFaNum_UltraLight.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr';
+            font-style: normal;
+            font-weight: 300;
+            src: local('kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr'), url(https://qp83296.see5.ir/wp-content/uploads/2021/04/IRANSansFaNum_Light.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr';
+            font-style: normal;
+            font-weight: 400;
+            src: local('kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr'), url(https://qp83296.see5.ir/wp-content/uploads/2021/04/IRANSansFaNum.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr';
+            font-style: normal;
+            font-weight: 600;
+            src: local('kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr'), url(https://qp83296.see5.ir/wp-content/uploads/2021/04/IRANSansFaNum_Medium.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr';
+            font-style: normal;
+            font-weight: 700;
+            src: local('kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr'), url(https://qp83296.see5.ir/wp-content/uploads/2021/04/IRANSansFaNum_Bold.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr';
+            font-style: normal;
+            font-weight: 900;
+            src: local('kiagxnzimjsjhdhbsuhyxdeywrmxtyufsrjr'), url(https://qp83296.see5.ir/wp-content/uploads/2021/04/IRANSansFaNum_Black.ttf) format('truetype');
+        }
+                /* xipddvzponudzmnykgjifbbvgiogwspvbwco */
+                    @font-face {
+            font-family: 'xipddvzponudzmnykgjifbbvgiogwspvbwco';
+            font-style: normal;
+            font-weight: 100;
+            src: local('xipddvzponudzmnykgjifbbvgiogwspvbwco'), url(https://qp83296.see5.ir/wp-content/uploads/2021/03/iranyekanwebthinfanum.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'xipddvzponudzmnykgjifbbvgiogwspvbwco';
+            font-style: normal;
+            font-weight: 300;
+            src: local('xipddvzponudzmnykgjifbbvgiogwspvbwco'), url(https://qp83296.see5.ir/wp-content/uploads/2021/03/iranyekanweblightfanum.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'xipddvzponudzmnykgjifbbvgiogwspvbwco';
+            font-style: normal;
+            font-weight: 400;
+            src: local('xipddvzponudzmnykgjifbbvgiogwspvbwco'), url(https://qp83296.see5.ir/wp-content/uploads/2021/03/iranyekanwebmediumfanum.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'xipddvzponudzmnykgjifbbvgiogwspvbwco';
+            font-style: normal;
+            font-weight: 500;
+            src: local('xipddvzponudzmnykgjifbbvgiogwspvbwco'), url(https://qp83296.see5.ir/wp-content/uploads/2021/03/iranyekanwebmediumfanum-1.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'xipddvzponudzmnykgjifbbvgiogwspvbwco';
+            font-style: normal;
+            font-weight: 600;
+            src: local('xipddvzponudzmnykgjifbbvgiogwspvbwco'), url(https://qp83296.see5.ir/wp-content/uploads/2021/03/iranyekanwebblackfanum.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'xipddvzponudzmnykgjifbbvgiogwspvbwco';
+            font-style: normal;
+            font-weight: 700;
+            src: local('xipddvzponudzmnykgjifbbvgiogwspvbwco'), url(https://qp83296.see5.ir/wp-content/uploads/2021/03/iranyekanwebboldfanum.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'xipddvzponudzmnykgjifbbvgiogwspvbwco';
+            font-style: normal;
+            font-weight: 800;
+            src: local('xipddvzponudzmnykgjifbbvgiogwspvbwco'), url(https://qp83296.see5.ir/wp-content/uploads/2021/03/iranyekanwebextraboldfanum.ttf) format('truetype');
+        }
+                            @font-face {
+            font-family: 'xipddvzponudzmnykgjifbbvgiogwspvbwco';
+            font-style: normal;
+            font-weight: 900;
+            src: local('xipddvzponudzmnykgjifbbvgiogwspvbwco'), url(https://qp83296.see5.ir/wp-content/uploads/2021/03/iranyekanwebextrablackfanum.ttf) format('truetype');
+        }
+            
